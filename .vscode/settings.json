@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "ios": "cpp",
+        "*.tcc": "cpp"
+    }
+}
